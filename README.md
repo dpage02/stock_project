@@ -20,8 +20,8 @@ Going through the results we clearly see some interesting things that we werenâ€
 
 ## Questions to Answer 
 1- How did the pandemic affect certain industries? 
-2- Did previous trends affect buyers choices after the start of the pandemic? 
-3- Do we see any upticks in certain fields after stimulus checks? 
+1- Did previous trends affect buyers choices after the start of the pandemic? 
+1- Do we see any upticks in certain fields after stimulus checks? 
 
 ### Data Source 
 All data that we used about the different stocks came from [Alpha Vantage](https://www.alphavantage.co/). In order to determine the top 20 stocks for each of the selected setors, we based it off the market shares, shown by [Barchart](https://www.barchart.com/).
