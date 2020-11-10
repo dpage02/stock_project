@@ -1,7 +1,7 @@
 # Fall of retail shopping, rise of technology stocks? 
 
 ## Purpose 
-The purpose of this project was to put to practice skills that we have learned through Georgia Tech's Data Analytics bootcamp. We use Python, Matplotlip, Pandas, and API calls to collect, clean and viusalize data. 
+The purpose of this project was to put to practice skills that we have learned through Georgia Tech's Data Analytics bootcamp. We use Python, Matplotlip, Pandas, and API calls to collect, clean and viusalize data
 
 Our group is looking at how the current pandemic, and the overall shift to technology has affected the stock market. There has been a recent trend of retail stores closing, and with the current status where many stores can't open, one could make the assumption that companies that have a stronger base in technology will have a stronger chance of having success. We tie this to the stock market with the idea that people are going to want to bye stocks in companies that are going to succeed, and businesses that might be slowed in uncertain times might scare off investors. 
 
