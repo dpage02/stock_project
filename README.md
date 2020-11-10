@@ -1,7 +1,7 @@
 # Fall of retail shopping, rise of technology stocks? 
 
 ## Purpose 
-The purpose of this project was to put to practice skills that we have learned through Georgia Tech's Data Analytics bootcamp. We use Python, Matplotlip, Pandas, and API calls to collect, clean and viusalize data
+The purpose of this project was to put to practice skills that we have learned through Georgia Tech's Data Analytics bootcamp. We use Python, Matplotlip, Pandas, and API calls to collect, clean and viusalize data.
 
 Our group is looking at how the current pandemic, and the overall shift to technology has affected the stock market. There has been a recent trend of retail stores closing, and with the current status where many stores can't open, one could make the assumption that companies that have a stronger base in technology will have a stronger chance of having success. We tie this to the stock market with the idea that people are going to want to bye stocks in companies that are going to succeed, and businesses that might be slowed in uncertain times might scare off investors. 
 
@@ -31,8 +31,3 @@ All data that we used about the different stocks came from [Alpha Vantage](https
 
 ### Data Cleaning
 After we had brought in all the CSV files for the indiduval stocks, we needed to bring all the data together. We used the Combined_CSV.ipynb file to concact all files to begin the comparisons. From there, we seperated the stocks based on their sector, and got the dates and closing price corresponding to the dates begining the business quarter. With the wanted data selected we were then able to create line graphs for each sector showing each quarter from 2015-2019. 
-
-
-
-
-
